@@ -9,7 +9,21 @@ v. 1.0 - Paperino edition
 Apri "Botte da Orbi.exe", seleziona a sinistra il tuo personaggio e a destra quello dell'avversario, controllato da un'intelligenza artificiale di ultima generazione. Poi stai zitto e gioca.
 
 # Come Creare un Personaggio
-Apri "Character Creator.exe", riempendo tutti i campi potrai creare il tuo personaggio, senza farlo troppo sgravo.
+Inserisci 2 immagini (.png/.jpg/...) in "characters". Saranno gli sprite del personaggio (leggi sotto per info sugli sprite)
+
+Inserisci un suono (.wav/.mp3/...) (lo pronuncerà il personaggio all'inizio) in "sounds"
+
+Apri "Character Creator.exe", riempi i campi da riempire con del testo POI
+
+premi sui tasti "Sfoglia..." e seleziona:
+
+Entry Sound: Seleziona il suono che hai inserito in "sounds"
+
+Sprite 1: Seleziona una delle due immagini inserite in "sprites"
+
+Sprite 2: Seleziona l'altra immagine in "sprites"
+
+
 
  Nome Low: E' il nome che viene visualizzato quando il personaggio si trova sotto i 50 punti vita.
  

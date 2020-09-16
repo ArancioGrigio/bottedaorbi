@@ -1,10 +1,10 @@
 # Botte da Orbi
 v. 1.0 - Paperino edition
 
-#Come Giocare
+# Come Giocare
 Apri "Botte da Orbi.exe", seleziona a sinistra il tuo personaggio e a destra quello dell'avversario, controllato da un'intelligenza artificiale di ultima generazione. Poi stai zitto e gioca.
 
-#Come Creare un Personaggio
+# Come Creare un Personaggio
 Apri "Character Creator.exe", riempendo tutti i campi potrai creare il tuo personaggio, senza farlo troppo sgravo.
 
  Nome Low: E' il nome che viene visualizzato quando il personaggio si trova sotto i 50 punti vita

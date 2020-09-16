@@ -23,7 +23,7 @@ Sprite 1: Seleziona una delle due immagini inserite in "sprites"
 
 Sprite 2: Seleziona l'altra immagine in "sprites"
 
-
+-------------------------------------------------------------
 
  Nome Low: E' il nome che viene visualizzato quando il personaggio si trova sotto i 50 punti vita.
  

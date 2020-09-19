@@ -3,7 +3,7 @@ v. 2.0.1 - Paperino edition (GUARDA LE RELEASE)
 
 
 # File necessari per Giocare
-"Botte da Orbi.exe", "Character Creation.exe", "characters", "sounds", "sprites".
+"Botte da Orbi.exe", "characters", "sounds", "sprites" (+ "Botte da Orbi Online.exe").
 
 # Come Giocare
 Apri "Botte da Orbi.exe", seleziona a sinistra il tuo personaggio e a destra quello dell'avversario, controllato da un'intelligenza artificiale di ultima generazione. Poi stai zitto e gioca.

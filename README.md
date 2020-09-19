@@ -1,5 +1,5 @@
 # Botte da Orbi
-v. 1.0 - Paperino edition
+v. 2.0.1 - Paperino edition (GUARDA LE RELEASE)
 
 
 # File necessari per Giocare

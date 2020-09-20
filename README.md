@@ -23,7 +23,7 @@ Premi su "Crea"
 
 Verrà generato un file chiamato "personaggio.exe", puoi rinominarlo come vuoi ed, eseguendolo, installerai il personaggio creato. Perciò puoi passarlo ad un amico per far scaricare lui il personaggio che hai appena creato (operazione necessaria per poter utilizzare tale personaggio in uno scontro contro di lui)
 
-Verranno creati anche altri 3 file "character.exe", "sprites.exe" e "sounds.exe" che potete benissimo cancellare, anche se si ricreeeranno ogni volta che installerete un nuovo personaggio.
+Installando un personaggio, verranno creati anche altri 3 file "character.exe", "sprites.exe" e "sounds.exe" che potete benissimo cancellare, anche se si ricreeeranno ogni volta che installerete un nuovo personaggio.
 
 -------------------------------------------------------------
 

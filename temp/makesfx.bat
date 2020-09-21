@@ -1,9 +1,9 @@
 set /A name = %1
-"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\characters.conf" "characters.exe" "*.txt"
-"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\sprites.conf" "sprites.exe" "*.png" "*.jpg" "*.jpeg"
-"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\sounds.conf" "sounds.exe" "*.wav" "*.mp3"
+"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\characters.conf" "characters.exe" "temp\*.txt"
+"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\sprites.conf" "sprites.exe" "temp\*.png" "temp\*.jpg" "temp\*.jpeg"
+"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\sounds.conf" "sounds.exe" "temp\*.wav" "temp\*.mp3"
 timeout /t 3
-"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\personaggio.conf" "personaggio.exe" "characters.exe" "sprites.exe" "sounds.exe"
+"temp/rar/Rar.exe" a -r -sfx -z"temp\rar\personaggio.conf" "personaggio.exe" "characters.exe" "sprites.exe" "sounds.exe" "cleaner.bat"
 del "temp\*.txt"
 del "temp\*.png"
 del "temp\*.jpg"

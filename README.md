@@ -35,6 +35,7 @@ Premi su "Crea"
 
 Verrà generato, nella directory in cui si trovano i file di gioco, un file chiamato "personaggio.exe", puoi rinominarlo come vuoi ed, eseguendolo, installerai il personaggio creato. 
 Perciò puoi passarlo ad un amico per far scaricare lui il personaggio che hai appena creato (operazione necessaria per poter utilizzare tale personaggio in uno scontro contro di lui)
+
 Per installare un personaggio basta avere i file di gioco, non è necessario avere i file che servono per creare un nuovo personaggio.
 -------------------------------------------------------------
 # Info sulla Creazione del Personaggio
